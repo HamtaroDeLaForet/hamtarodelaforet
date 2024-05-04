@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FrontEnd developpement, VueJS,ReactJs and many other**
 
-- 👨‍💻 All of my projects are available at (https://hamtarodelaforet.github.io/)
+- 👨‍💻 All of my projects are available at https://hamtarodelaforet.github.io/
 - 📫 How to reach me **mateo.fauquembergue@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
