@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Fauquembergue</h1>
-<h3 align="center">📚Student in bts SIO SLAM at Gaston Berger high school in Lille</h3>
+<h3 align="center">📚Student in BTS SIO SLAM at Gaston Berger high school in Lille</h3>
 
 - 🌱 I’m currently learning **FrontEnd developpement, VueJS,ReactJs and many other**
 
