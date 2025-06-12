@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Fauquembergue</h1>
-<h3 align="center">📚Student in BTS SIO SLAM at Gaston Berger high school in Lille</h3>
+<h3 align="center">📚Graduated with a BTS SIO SLAM at Gaston Berger high school in Lille</h3>
 
-- 🌱 I’m currently learning **FrontEnd developpement, VueJS,ReactJs and many other**
+- 🌱 I’m currently improving my knowledge in **FrontEnd developpement, VueJS,ReactJs and many other**
 
 - 👨‍💻 All of my projects are available at https://hamtarodelaforet.github.io/
 - 📫 How to reach me **mateo.fauquembergue@gmail.com**
