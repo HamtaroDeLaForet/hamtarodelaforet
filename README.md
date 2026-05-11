@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Invoxa, a simple SaaS that helps freelancers create invoices, manage clients, and track income effortlessly.<br>🌱 I’m currently learning : Fullstack development, DevOps, advanced backend architecture<br>💬 Ask me about : React, TypeScript, JavaScript, PHP ,Symfony,  MySQL, Web development<br>⚡ Fun fact : I like building projects around my passions like music and games
+🔭 I’m currently working on : Faktio, a simple SaaS that helps freelancers create invoices, manage clients, and track income effortlessly.<br>🌱 I’m currently learning : Fullstack development, DevOps, advanced backend architecture<br>💬 Ask me about : React, TypeScript, JavaScript, PHP ,Symfony,  MySQL, Web development<br>⚡ Fun fact : I like building projects around my passions like music and games
 
 
 # 💻 Tech Stack:
